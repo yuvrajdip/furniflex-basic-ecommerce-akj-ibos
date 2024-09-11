@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Wooden Side Chair",
+    "image": "https://media.gettyimages.com/id/1369682794/photo/white-chair-taken-in-studio-with-white-background.jpg?s=1024x1024&w=gi&k=20&c=C8wLE_38ZIowpFsZx8OwVH6pPftRv89lD7yYbOov0d4=",
+    "price": 120.00,
+    "qty": 1,
+    "description": "A stylish wooden side chair with modern design and comfortable seating."
+  },
+  {
+    "id": 2,
+    "name": "Classic Upholstered Side Chair",
+    "image": "https://media.gettyimages.com/id/1133842752/photo/office-chair-side-view.jpg?s=1024x1024&w=gi&k=20&c=MRVnUHWcVYa9f4o80U08xDsPflPzSY8WB_pMkF_C-Dc=",
+    "price": 150.00,
+    "qty": 1,
+    "description": "A classic upholstered chair with soft padding, perfect for any living space."
+  },
+  {
+    "id": 3,
+    "name": "Minimalist Plastic Side Chair",
+    "image": "https://media.gettyimages.com/id/1399840781/photo/two-yellow-color-office-chairs.jpg?s=1024x1024&w=gi&k=20&c=bUDK0kea9D4P6SFgvOqov-3jA92K6Gv7v2B0skG9fgg=",
+    "price": 80.00,
+    "qty": 1,
+    "description": "A sleek plastic side chair with a minimalist design, suitable for indoor and outdoor use."
+  },
+  {
+    "id": 4,
+    "name": "Vintage Leather Side Chair",
+    "image": "https://media.gettyimages.com/id/171384959/photo/executive-office-chair.jpg?s=1024x1024&w=gi&k=20&c=xfu6pk4A7r9cTfr4u9HQJtw7g0KkGs82RJF5SL5U7is=",
+    "price": 200.00,
+    "qty": 1,
+    "description": "A vintage-style leather side chair that adds elegance to any room."
+  },
+  {
+    "id": 5,
+    "name": "Metal Frame Side Chair",
+    "image": "https://media.gettyimages.com/id/200470121-001/vector/chair.jpg?s=1024x1024&w=gi&k=20&c=fIVYL21bdoAPi2NMQbSBlUbSmiqRYSpZj0qmiQZ2qbs=",
+    "price": 90.00,
+    "qty": 1,
+    "description": "A durable metal frame chair with a comfortable cushion seat."
+  },
+  {
+    "id": 6,
+    "name": "Scandinavian Fabric Side Chair",
+    "image": "https://media.gettyimages.com/id/184285553/photo/office-chair.jpg?s=1024x1024&w=gi&k=20&c=XjfU0LWNssTa71RmsO-1Ub2H8FvHLX_PL_hVjIu1v8k=",
+    "price": 130.00,
+    "qty": 1,
+    "description": "A Scandinavian-inspired side chair with fabric upholstery and wooden legs."
+  },
+  {
+    "id": 7,
+    "name": "Rustic Wooden Side Chair",
+    "image": "https://media.gettyimages.com/id/629639601/photo/woman-reading-book-at-beach.jpg?s=1024x1024&w=gi&k=20&c=XDYvtEW5EQz9jAyrFJm--FyStCihJ8XTQOVDnoB-K64=",
+    "price": 110.00,
+    "qty": 1,
+    "description": "A rustic wooden chair with a simple design, perfect for farmhouse-style decor."
+  },
+  {
+    "id": 8,
+    "name": "Industrial Metal Side Chair",
+    "image": "https://media.gettyimages.com/id/1272083056/photo/asian-woman-napping-on-camping-chair-in-nature.jpg?s=1024x1024&w=gi&k=20&c=Xps3JFs6xJTMyrzf1Zw2KStTnV8Vtt6WjTZ3NT9ymEo=",
+    "price": 95.00,
+    "qty": 1,
+    "description": "An industrial metal side chair that complements urban and modern spaces."
+  },
+  {
+    "id": 9,
+    "name": "Mid-Century Modern Side Chair",
+    "image": "https://media.gettyimages.com/id/629639547/photo/man-with-tablet-at-beach.jpg?s=1024x1024&w=gi&k=20&c=dVzzrtYViTtXWqcbYYp_gl3IsxycTyNVNip-KqxDlNs=",
+    "price": 175.00,
+    "qty": 1,
+    "description": "A mid-century modern side chair with wooden legs and sleek upholstery."
+  }
+]

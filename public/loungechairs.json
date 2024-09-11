@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Wooden Lounge Chair",
+    "image": "https://media.gettyimages.com/id/1224119950/photo/orange-armchair.jpg?s=1024x1024&w=gi&k=20&c=iqhsN_YjCj487nhelFgs3OxVqWTyZfXABPq7vf4nAac=",
+    "price": 250.00,
+    "qty": 1,
+    "description": "A stylish wooden lounge chair with a modern design and wide seating for extra comfort."
+  },
+  {
+    "id": 2,
+    "name": "Classic Upholstered Lounge Chair",
+    "image": "https://media.gettyimages.com/id/154926620/photo/armchair.webp?s=1024x1024&w=gi&k=20&c=sVV-qhPXoC_FbMjG74zdiYWIZ1T7Kpmjwkuj9L3UPrw=",
+    "price": 320.00,
+    "qty": 1,
+    "description": "A classic upholstered lounge chair with deep cushions, perfect for relaxing in style."
+  },
+  {
+    "id": 3,
+    "name": "Minimalist Fabric Lounge Chair",
+    "image": "https://media.gettyimages.com/id/155429759/photo/wooden-sunbead-on-white-background.jpg?s=1024x1024&w=gi&k=20&c=NdqOABrnMfNdx4N6uooinRsEQUQHbRnPWW9F09xlLL8=",
+    "price": 180.00,
+    "qty": 1,
+    "description": "A sleek, minimalist fabric lounge chair designed for maximum comfort and modern spaces."
+  },
+  {
+    "id": 4,
+    "name": "Vintage Leather Lounge Chair",
+    "image": "https://media.gettyimages.com/id/1090697982/photo/home-interior-with-armchair-tablet-and-view-on-roof-terrace.jpg?s=1024x1024&w=gi&k=20&c=_YFj1H4mVC6cZjLjmuKTWP-PmJsgO5fURnaQhCEVMAI=",
+    "price": 400.00,
+    "qty": 1,
+    "description": "A luxurious vintage-style leather lounge chair with a classic look and ultimate comfort."
+  },
+  {
+    "id": 5,
+    "name": "Metal Frame Lounge Chair",
+    "image": "https://media.gettyimages.com/id/1210310182/photo/armchair-with-windows.jpg?s=1024x1024&w=gi&k=20&c=X-YAsoEAPaWhLrYBzGmDUPBskatQ0lmofx6zEVl0nro=",
+    "price": 190.00,
+    "qty": 1,
+    "description": "A durable metal frame lounge chair with a modern design and soft cushion seating."
+  },
+  {
+    "id": 6,
+    "name": "Scandinavian Fabric Lounge Chair",
+    "image": "https://media.gettyimages.com/id/184881631/photo/close-up-of-an-empty-armchair.jpg?s=1024x1024&w=gi&k=20&c=d0Mm4ceO8QzNvCZVOaaCng-PUhlOma_y9IUUsOU0aoc=",
+    "price": 270.00,
+    "qty": 1,
+    "description": "A Scandinavian-inspired fabric lounge chair with ergonomic design and wooden accents."
+  },
+  {
+    "id": 7,
+    "name": "Rustic Wooden Lounge Chair",
+    "image": "https://media.gettyimages.com/id/1357338383/photo/pink-textured-velor-armchair-on-a-pink-background.jpg?s=1024x1024&w=gi&k=20&c=AvfXKcigb_PKvBwaHxlg70RWRm7zOZ2soKYkmLNp6WI=",
+    "price": 230.00,
+    "qty": 1,
+    "description": "A rustic wooden lounge chair with a wide seat and plush cushions, ideal for cozy spaces."
+  },
+  {
+    "id": 8,
+    "name": "Industrial Metal Lounge Chair",
+    "image": "https://media.gettyimages.com/id/1196236719/photo/sessel.jpg?s=1024x1024&w=gi&k=20&c=Yt1TY--W-RKEKNc84xqV14e4Db5OmNUL6mm8TO3BAh0=",
+    "price": 220.00,
+    "qty": 1,
+    "description": "An industrial-style metal lounge chair with a bold design that complements urban decor."
+  },
+  {
+    "id": 9,
+    "name": "Mid-Century Modern Lounge Chair",
+    "image": "https://media.gettyimages.com/id/157435262/photo/blue-recliner-chair.jpg?s=1024x1024&w=gi&k=20&c=vNfZ-3agTzJYrUgLkUNXx9upQApLKJT8PGtp9SRh-iQ=",
+    "price": 350.00,
+    "qty": 1,
+    "description": "A mid-century modern lounge chair with a sleek design and wooden legs for a retro look."
+  }
+]

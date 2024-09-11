@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Mid-Century Modern Rocking Chair",
+    "image": "https://media.gettyimages.com/id/520077528/photo/rocking-chair-on-porch-facing-lawn.jpg?s=612x612&w=0&k=20&c=hDDvrqFO0YMO-QvaETq0J92o4KHCUFgxxHzAmtdUoMQ=",
+    "price": 299.99,
+    "description": "A sleek and stylish rocking chair inspired by mid-century design.",
+    "qty" :1
+  },
+  {
+    "id": 2,
+    "name": "Rustic Wooden Rocking Chair",
+    "image": "https://media.gettyimages.com/id/1398721472/photo/rocking-chairs-and-pot-of-lavender.jpg?s=1024x1024&w=gi&k=20&c=sUFDm3XdgWJ-nXbyophqcb1yqiFbAeA5A61Pgv29W0E=",
+    "price": 349.99,
+    "description": "Handcrafted rocking chair with a rustic, natural finish.",
+    "qty" :1
+  },
+  {
+    "id": 3,
+    "name": "Upholstered Glider Rocker",
+    "image": "https://media.gettyimages.com/id/697563059/photo/rocking-chair-in-a-modern-living-room.jpg?s=1024x1024&w=gi&k=20&c=PGeBB9QFrvWr5aC9uCk7s0OLu2Tz8GuyrPkaZbHtP5k=",
+    "price": 499.99,
+    "description": "Comfortable and supportive glider rocker with plush upholstery.",
+    "qty" :1
+  },
+  {
+    "id": 4,
+    "name": "Wicker Rocking Chair",
+    "image": "https://media.gettyimages.com/id/119679493/photo/rocking-chair-on-grey-background.jpg?s=1024x1024&w=gi&k=20&c=LCaynflq4-qftVUjo4D2XM3jRl1oiD3R7-f8phT_4hI=",
+    "price": 199.99,
+    "description": "Lightweight and airy wicker rocking chair, perfect for patios.",
+    "qty" :1
+  },
+  {
+    "id": 5,
+    "name": "Nursery Rocking Chair",
+    "image": "https://media.gettyimages.com/id/800441656/photo/empty-rocking-chairs-in-balcony-against-mountains.jpg?s=1024x1024&w=gi&k=20&c=LUY4-CQULEYveg4zNxqlsA4AdiV_2PgUXyBaWCwKtvo=",
+    "price": 249.99,
+    "description": "Gentle gliding rocking chair for soothing newborns.",
+    "qty" :1
+  },
+  {
+    "id": 6,
+    "name": "Papasan Chair",
+    "image": "https://media.gettyimages.com/id/521169612/photo/rocking-chairs-on-porch.jpg?s=1024x1024&w=gi&k=20&c=hudcjlyuyEjKjR_YxWVy_Eql_1J7Bnum-J-uq9GVLMQ=",
+    "price": 329.99,
+    "description": "Cozy and enveloping papasan chair with a swivel base.",
+    "qty": 1
+  },
+  {
+    "id": 7,
+    "name": "Reclining Rocking Chair",
+    "image": "https://media.gettyimages.com/id/988547206/photo/still-rocking.jpg?s=1024x1024&w=gi&k=20&c=RMcxXaQZrH7RdU-5tGkzGriMuFBpC1apDysRxxfV0l4=",
+    "price": 449.99,
+    "description": "Relaxing rocking chair with a reclining backrest for ultimate comfort.",
+    "qty" :1
+  },
+  {
+    "id": 8,
+    "name": "Hanging Egg Chair",
+    "image": "https://media.gettyimages.com/id/157309347/photo/childs-furniture-amish-rocking-chair-hickory.webp?s=1024x1024&w=gi&k=20&c=1uUn7yl1Q27hzVJqSzuX1JKp_V9NArFVk4LG_EwNIm8=",
+    "price": 279.99,
+    "description": "Unique and stylish hanging egg chair for indoor or outdoor use.",
+    "qty" :1
+  },
+  {
+    "id": 9,
+    "name": "Double Rocking Chair",
+    "image": "https://media.gettyimages.com/id/200116029-001/photo/wicker-rocking-chairs-on-front-porch.jpg?s=1024x1024&w=gi&k=20&c=NlcBJ9__GcxHvhcY7VkvBFgr2CKL0-rNWcV5GfS8QFw=",
+    "price": 599.99,
+    "description": "Spacious rocking chair for two, perfect for couples or families.",
+    "qty":1
+  }
+]
